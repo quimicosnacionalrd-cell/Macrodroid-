@@ -3,7 +3,7 @@
         "username": "demo1",
         "password": "7890",
         "expirydate": "31-12-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "device456",
